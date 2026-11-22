@@ -1,0 +1,6 @@
+{
+  "name": "Two-View Greeting App — Flet Workbench",
+  "description": "Interactive two-view Flet greeting app simulator, Python main.py deliverable, and requirement verifier for UJ FNB App Academy Unit 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
